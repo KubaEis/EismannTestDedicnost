@@ -27,3 +27,4 @@ public class Listnac extends Strom{
         return super.getRokZasazeni();
     }
 }
+

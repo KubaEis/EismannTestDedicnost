@@ -22,3 +22,4 @@ public class Strom {
         return rokZasazeni;
     }
 }
+

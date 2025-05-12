@@ -26,3 +26,4 @@ public class Jehlicnan extends Strom{
         return super.getRokZasazeni();
     }
 }
+
